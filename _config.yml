@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 title: AIK Technologies Inc.
 description: a sampling of projects
+github:
+  is_project_page: false
